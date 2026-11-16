@@ -1,0 +1,20 @@
+{
+  "name": "@bardotiao/game-contract",
+  "version": "1.0.0",
+  "description": "Contrato de engine de jogo do servidor (validação, resultados e normalização de config).",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCics/game-contract.git"
+  },
+  "files": [
+    "index.js",
+    "game.contract.js",
+    "game.config.js",
+    "engine-contract.suite.js"
+  ],
+  "scripts": {
+    "test": "echo \"testado pelos jogos (engine-contract.suite.js)\""
+  }
+}
